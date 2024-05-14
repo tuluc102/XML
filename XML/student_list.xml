@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<students>
+  <student name="Trieu" age="19" gpa="3.5"></student>
+  <student name="Trong" age="19" gpa="3.2"></student>
+  <student name="Thanh" age="19" gpa="3.8"></student>
+  
+</students>
